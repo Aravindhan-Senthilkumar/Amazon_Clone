@@ -7,14 +7,6 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {
-      "environment": "production",
-      "android": {
-        "buildType": "apk"
-      },
-      "cli": {
-        "appVersionSource": "remote"
-      }
-    }
+    "production": {}
   }
 }
