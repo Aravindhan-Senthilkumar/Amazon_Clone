@@ -25,9 +25,10 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "aravindhan_s",
     "extra": {
       "eas": {
-        "projectId": "bd39f3f7-6f97-4407-bea3-ba32faee097c"
+        "projectId": "b9524b51-e017-4cd0-a3f2-88b08ab438d5"
       }
     },
     "owner": "aravindhan_s"
