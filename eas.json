@@ -1,16 +1,34 @@
 {
   "build": {
     "development": {
-      "environment": "development"
+      "environment": "development",
+      "cli": {
+        "appVersionSource": "local"
+      }
     },
     "preview": {
-      "environment": "preview"
+      "environment": "preview",
+      "cli": {
+        "appVersionSource": "local"
+      }
     },
     "production": {
-      "environment": "production"
+      "environment": "production",
+      "android": {
+        "buildType": "apk"
+      },
+      "cli": {
+        "appVersionSource": "remote"
+      }
     },
     "my-profile": {
-      "environment": "production"
+      "environment": "production",
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "cli": {
+        "appVersionSource": "remote"
+      }
+    }
   }
-}
 }
