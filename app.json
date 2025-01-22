@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Amazon-Clone",
-    "slug": "Amazon-Clone",
+    "slug": "amazonclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
