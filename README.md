@@ -59,6 +59,7 @@ Welcome to the **Amazon Clone**, a fully functional e-commerce web and mobile ap
 ├── App.js                 # Entry point for the app
 ├── package.json           # Dependencies and scripts
 └── README.md              # Project documentation
+```
 
 # ⚡ Installation
 
@@ -77,7 +78,7 @@ Welcome to the **Amazon Clone**, a fully functional e-commerce web and mobile ap
 ```bash
 git clone https://github.com/Aravindhan-Senthilkumar/amazon-clone.git
 cd amazon-clone
-```
+
 
 ### Install Dependencies:
 ```bash
