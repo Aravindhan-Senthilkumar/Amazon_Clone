@@ -70,8 +70,6 @@ Welcome to the **Amazon Clone**, a fully functional e-commerce web and mobile ap
 
 ---
 
-# Amazon Clone
-
 ## 🚀 Steps to Get Started
 
 ### Clone the Repository:
